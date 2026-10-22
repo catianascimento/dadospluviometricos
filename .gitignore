@@ -1,3 +1,7 @@
 venv/
 __pycache__/
 *.xlsx
+
+dist/*
+build/*
+*.egg-info/
